@@ -2,8 +2,8 @@ import kotlin.math.pow
 
 fun main(args: Array<String>) {
     println("Bem-vindo ao Continhas v1.0!")
-    val capitalizacao1Servico = Capitalizacao1()
-    capitalizacao1Servico.calcularValorFuturoCap52000()
+    val impostosServico = Impostos()
+    impostosServico.calcular1204_82DentroIcms17()
 }
 
 fun testarNumeroCef() {
